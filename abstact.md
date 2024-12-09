@@ -6,3 +6,4 @@ The hooking process involves locating the system call table, disabling write pro
 
 This approach demonstrates how kernel modules can be leveraged to monitor or modify system behavior in real-time, providing valuable insights into system operations while emphasizing the importance of safe and secure implementation practices.
 
+P.S: This project was done keeping the latest kernel version of linux (The core project).
