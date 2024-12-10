@@ -6,7 +6,7 @@
 #include <linux/syscalls.h>  
 #include <asm/unistd.h>     
 
-MODULE_LICENSE("GPL");
+MODULE_LICENSE("MIT");
 MODULE_AUTHOR("Sameer Roy");
 MODULE_DESCRIPTION("A simple system call hooking for security imporvement");
 
